@@ -11,7 +11,7 @@ A responsive web-based chat interface for booking dog walking services, built wi
 
 ## 🖼️ Preview
 
-![App Screenshot](images/preview.png)
+![App Screenshot](chat-app-css-illustration-master/design/desktop-design.jpg)
 
 
 ## 🛠️ Technologies Used
